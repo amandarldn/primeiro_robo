@@ -1,0 +1,4 @@
+source;share/primeiro_robo/local_setup.bash
+source;share/primeiro_robo/local_setup.dsv
+source;share/primeiro_robo/local_setup.sh
+source;share/primeiro_robo/local_setup.zsh

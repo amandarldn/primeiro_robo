@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+fe3faaf2bb6502e2f7885c53e9d5235b CMakeFiles/primeiro_robo_uninstall

@@ -1,0 +1,9 @@
+/home/user/dev_ws/src/primeiro_robo/build/primeiro_robo/CMakeFiles/uninstall.dir
+/home/user/dev_ws/src/primeiro_robo/build/primeiro_robo/CMakeFiles/primeiro_robo_uninstall.dir
+/home/user/dev_ws/src/primeiro_robo/build/primeiro_robo/CMakeFiles/test.dir
+/home/user/dev_ws/src/primeiro_robo/build/primeiro_robo/CMakeFiles/edit_cache.dir
+/home/user/dev_ws/src/primeiro_robo/build/primeiro_robo/CMakeFiles/rebuild_cache.dir
+/home/user/dev_ws/src/primeiro_robo/build/primeiro_robo/CMakeFiles/list_install_components.dir
+/home/user/dev_ws/src/primeiro_robo/build/primeiro_robo/CMakeFiles/install.dir
+/home/user/dev_ws/src/primeiro_robo/build/primeiro_robo/CMakeFiles/install/local.dir
+/home/user/dev_ws/src/primeiro_robo/build/primeiro_robo/CMakeFiles/install/strip.dir
